@@ -19,7 +19,7 @@ Uma aplicação de console simples, mas poderosa, desenvolvida em C para realiza
 * **Data da Criação da Versão:** `20/07/2025 - 21/07/2025`
 * **Desenvolvedor:** `André Jorge`
 * **Idiomas Suportados:** `Português Brasil (PT-BR)`
-* **Sistemas Suportados:** `Windows`, `Linux`, `MacOS` *(Se você tem um único executável, ele provavelmente é específico para Windows. Ajuste isso se tiver builds para outros OS.)*
+* **Sistemas Suportados:** `Windows`
 
 ## 📥 Como Baixar e Rodar
 
