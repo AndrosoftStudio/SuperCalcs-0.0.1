@@ -3,8 +3,6 @@ Uma super calculadora programada em Linguagem C
 
 # SuperCalcs
 
-![Capa/Banner do Projeto)](["https://via.placeholder.com/800x300?text=SuperCalcs+-+A+Calculadora+Completa](https://concepto.de/wp-content/uploads/2018/10/bit-e1539272682266.jpg"))
-
 Uma aplicação de console simples, mas poderosa, desenvolvida em C para realizar operações matemáticas básicas e outras funcionalidades úteis. O SuperCalcs foi criado com o objetivo de ser uma ferramenta rápida e eficiente para o dia a dia, oferecendo uma interface de usuário intuitiva via terminal.
 
 ## 🚀 Funcionalidades Atuais
